@@ -116,7 +116,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
     </td>
      <!-- Yaojun Liu -->
     <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/blob/9354a20bf8904d1d0f5b28c4b80fcd8e81b66ab5/images/Yaojun2%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
       <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
       <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Cooperation behavior within the evolutionary game framework on networks, the fault-tolerant online bin packing problem</span>
