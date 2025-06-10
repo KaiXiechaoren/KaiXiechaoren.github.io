@@ -116,7 +116,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
     </td>
       <!-- Yaojun Liu -->
     <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXie.homepage.github.io/raw/7b289899c24ad28377930c29685e8a4b1dba417c/images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/KaiXiechaoren/Kaixie.homepage.github.io/blob/f304c66e913dc9f64c0c92625ee8fc284d9ab15e/images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
       <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Xingwen Liu</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University</span><br/>
       <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
