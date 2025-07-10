@@ -22,7 +22,7 @@ I obtained my master's degree in Electronic Information from Southwest Minzu Uni
 My research interests fall into two main areas. The first is evolutionary game theory, in which I have published several papers in leading academic journals. The second is the application of artificial intelligence in power systems, which is also the focus of my doctoral research. In addition, I serve as a reviewer for several academic journals.
 
 
-
+<span class='anchor' id='Research areas'></span>
 # 🔍 Research areas
 ### 🎯Ph.D. project-Application of AI in electricity market 
 
