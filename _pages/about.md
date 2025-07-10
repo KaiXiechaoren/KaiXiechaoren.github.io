@@ -1,4 +1,5 @@
 ---
+layout:page
 permalink: /About me/
 title: ""
 excerpt: ""
