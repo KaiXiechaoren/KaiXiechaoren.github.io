@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /About me/
 title: ""
 excerpt: ""
 author_profile: true
