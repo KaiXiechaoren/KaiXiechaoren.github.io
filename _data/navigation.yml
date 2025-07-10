@@ -6,8 +6,6 @@ main:
   - title: "Research areas"
     url: "/#-Research areas"
 
-  - title: "Publications"
-    url: "/#-publications"
 
   - title: "News"
     url: "/#-News"
@@ -24,5 +22,5 @@ main:
   - title: "Educations"
     url: "/#-Educations"
 
-      - title: "Educations"
-    url: "/#-Educations"
+      - title: "Main research cooperators"
+    url: "/#-Main research cooperators"
