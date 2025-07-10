@@ -47,7 +47,8 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 
 # 🔥 News
-- *2025.06*:  Our paper **"Co-evolution mechanism in networked snowdrift game with large connection range"** has received minor revision by Physica A: Statistical Mechanics and its Applications (CAS Tier 2)
+- *2025.07*:  Our paper **"The regulation of good and evi promotes cooperation in public goods game"** has been recognized as an ESI Highly Cited Paper worldwide (CAS Tier 2).
+- *2025.07*:  Our paper **"Co-evolution mechanism in networked snowdrift game with large connection range"** has been accepted by Physica A: Statistical Mechanics and its Applications (CAS Tier 2)
 - *2025.04*:  Upon receiving an invitation from the China Association for Science and Technology, the [popular science article](https://mp.weixin.qq.com/s/y5dnzMo3bmut-vQn9TrODA) I wrote was published on the relevant wechat official account.
 - *2025.04*: &nbsp;🎉🎉 Our paper **"Reputation in public goods cooperation under double Q-learning protocol"** has been accepted by Chaos, Solitons and Fractals (🏆 **Top Journal, CAS Tier 1**)
 
