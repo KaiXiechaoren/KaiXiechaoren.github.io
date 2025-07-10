@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<a href="#about-me" class="red-link">About Me</a>
 <span class='anchor' id='about-me'></span>
 # 🙋‍♂️ About me
 I obtained my master's degree in Electronic Information from Southwest Minzu University in 2023. Currently, I am pursuing my Ph.D. in Computer Science at the University of Electronic Science and Technology of China (UESTC), under the supervision of [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en) (National-level young talent). 
