@@ -1,6 +1,6 @@
 ---
-layout:page
-permalink: /About me/
+
+permalink: /About-me/
 title: ""
 excerpt: ""
 author_profile: true
