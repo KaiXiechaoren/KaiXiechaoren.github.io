@@ -94,7 +94,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
   <tr>
    <!-- Attila Szolnoki -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-  <img src="./images/untitled.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <img src="./images/Attila.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
   <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Attila Szolnoki</a></strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science,<br/>
   Centre for Energy Research</span><br/>
@@ -102,7 +102,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 </td>
 <!-- Xingwen Liu -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-  <img src="./images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <img src="./images/Xingwen%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
   <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Xingwen Liu</a></strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University</span><br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
