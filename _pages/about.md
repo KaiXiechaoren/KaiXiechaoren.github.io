@@ -111,7 +111,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
   <tr>
     <!-- Tingjin Liu -->
     <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXiechaoren.github.io/blob/e90ddd5c08f538643f5c13ede68943f133dc2ba1/images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <img src="./images/untitled.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
       <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Tingjin Liu</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
       <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Switched systems，optimal control</span>
