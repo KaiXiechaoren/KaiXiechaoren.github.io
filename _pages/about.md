@@ -94,7 +94,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
   <tr>
     <!-- Attila Szolnoki -->
     <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXiechaoren.github.io/blob/e90ddd5c08f538643f5c13ede68943f133dc2ba1/images/Attila.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/KaiXiechaoren/KaiXiechaoren.github.io/blob/d098197847753f0dc60e8a1aa355a45b3091b47f/images/untitled.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
       <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Attila Szolnoki</a></strong><br/>
       <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science,<br/>
       Centre for Energy Research</span><br/>
