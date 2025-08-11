@@ -92,38 +92,37 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 <table style="border-collapse: separate; border-spacing: 20px; margin: 0 auto;">
   <tr>
-    <!-- Attila Szolnoki -->
-    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXiechaoren.github.io/blob/d098197847753f0dc60e8a1aa355a45b3091b47f/images/untitled.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Attila Szolnoki</a></strong><br/>
-      <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science,<br/>
-      Centre for Energy Research</span><br/>
-      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Evolutionary games, complex networks, nonlinear dynamics</span>
-    </td>
-    <!-- Xingwen Liu -->
-    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXiechaoren.github.io/blob/e90ddd5c08f538643f5c13ede68943f133dc2ba1/images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Xingwen Liu</a></strong><br/>
-      <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University</span><br/>
-      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
-    </td>
-  </tr>
-  <tr>
-    <!-- Tingjin Liu -->
-    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://raw.githubusercontent.com/KaiXiechaoren/KaiXiechaoren.github.io/d098197847753f0dc60e8a1aa355a45b3091b47f/images/untitled.png
-" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Tingjin Liu</a></strong><br/>
-      <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
-      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Switched systems，optimal control</span>
-    </td>
-      <!-- Yaojun Liu -->
-    <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/KaiXiechaoren/KaiXiechaoren.github.io/blob/e90ddd5c08f538643f5c13ede68943f133dc2ba1/images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-      <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
-      <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
-      <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Cooperation behavior within the evolutionary game framework on networks, the fault-tolerant online bin packing problem</span>
-    </td>
+   <!-- Attila Szolnoki -->
+<td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+  <img src="./images/untitled.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Attila Szolnoki</a></strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science,<br/>
+  Centre for Energy Research</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Evolutionary games, complex networks, nonlinear dynamics</span>
+</td>
+<!-- Xingwen Liu -->
+<td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+  <img src="./images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Xingwen Liu</a></strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
+</td>
+</tr>
+<tr>
+<!-- Tingjin Liu -->
+<td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+  <img src="./images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Tingjin Liu</a></strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Switched systems，optimal control</span>
+</td>
+<!-- Yaojun Liu -->
+<td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
+  <img src="./images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Cooperation behavior within the evolutionary game framework on networks, the fault-tolerant online bin packing problem</span>
+</td>
   </tr>
 </table>
 
