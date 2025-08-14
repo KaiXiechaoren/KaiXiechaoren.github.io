@@ -56,7 +56,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 
 # 📝 Publications 
--  *2025.08:*  **Kai Xie***, and Attila Szolnoki, "Reinforcement learning in evolutionary game theory: a brief review of recent developments", in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
+-  *2025.08:*  **Kai Xie***, and Attila Szolnoki, "Reinforcement learning in evolutionary game theory: a brief review of recent developments", in Applied Mathematics and Computation, April. 2025. (🏆**Top Journal, CAS Tier 1**)
 -  *2025.04:*  **Kai Xie***, and Attila Szolnoki,  ["Reputation in public goods cooperation under double Q-learning protocol"](https://www.sciencedirect.com/science/article/pii/S0960077925004114), in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
 -    *2024.09:* **Kai Xie***, Yaojun Liu, and Tingjin Liu,  ["Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game"](https://www.sciencedirect.com/science/article/pii/S0960077924007860), in Chaos, Solitons and Fractals, September. 2024.(🏆**Top Journal, CAS Tier 1**)
 -  *2024.04:* **Kai Xie***, and Tingjin Liu,  ["The regulation of good and evi promotes cooperation in public goods game"](https://www.sciencedirect.com/science/article/pii/S0096300324003059),in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
