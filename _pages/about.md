@@ -47,7 +47,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 
 # 🔥 News
-- *2025.07*:  Our paper **"Reinforcement learning in evolutionary game theory: a brief review of recent developments"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
+- *2025.08*:  Our paper **"Reinforcement learning in evolutionary game theory: a brief review of recent developments"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
 - *2025.07*:  Our paper **"The regulation of good and evi promotes cooperation in public goods game"** has been recognized as an ESI Highly Cited Paper worldwide (JCRQ1, CAS Tier 2).
 - *2025.07*:  Our paper **"Co-evolution mechanism in networked snowdrift game with large connection range"** has been accepted by Physica A: Statistical Mechanics and its Applications (JCRQ1, CAS Tier 2)
 - *2025.04*:  Upon receiving an invitation from the China Association for Science and Technology, the [popular science article](https://mp.weixin.qq.com/s/y5dnzMo3bmut-vQn9TrODA) I wrote was published on the relevant wechat official account.
@@ -56,6 +56,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 
 # 📝 Publications 
+-  *2025.08:*  **Kai Xie***, and Attila Szolnoki, "Reinforcement learning in evolutionary game theory: a brief review of recent developments", in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
 -  *2025.04:*  **Kai Xie***, and Attila Szolnoki,  ["Reputation in public goods cooperation under double Q-learning protocol"](https://www.sciencedirect.com/science/article/pii/S0960077925004114), in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
 -    *2024.09:* **Kai Xie***, Yaojun Liu, and Tingjin Liu,  ["Unveiling the masks: Deception and reputation in spatial prisoner’s dilemma game"](https://www.sciencedirect.com/science/article/pii/S0960077924007860), in Chaos, Solitons and Fractals, September. 2024.(🏆**Top Journal, CAS Tier 1**)
 -  *2024.04:* **Kai Xie***, and Tingjin Liu,  ["The regulation of good and evi promotes cooperation in public goods game"](https://www.sciencedirect.com/science/article/pii/S0096300324003059),in Applied Mathematics and Computation, April. 2024. (Top Journal, CAS Tier 2)
