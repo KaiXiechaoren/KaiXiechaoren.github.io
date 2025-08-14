@@ -45,7 +45,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
   
 - 🔍Interpretable reinforcement learning for strategic behavior
 
-
+<span class='anchor' id='News'></span>
 # 🔥 News
 - *2025.08*:  Our paper **"Reinforcement learning in evolutionary game theory: a brief review of recent developments"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
 - *2025.07*:  Our paper **"The regulation of good and evi promotes cooperation in public goods game"** has been recognized as an ESI Highly Cited Paper worldwide (JCRQ1, CAS Tier 2).
