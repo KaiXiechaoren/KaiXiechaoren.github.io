@@ -74,6 +74,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 - Frontiers in Sustainable Food Systems, section Agricultural and Food Economics  (JCR:Q2, CAS Tier 3)
 - Scientific Reports  (JCR:Q2, CAS Tier 3)
 - Current Neuropharmacology (JCR:Q2, CAS Tier 3)
+- Franklin Open
 
 
 # 🎖 Honors and Awards
