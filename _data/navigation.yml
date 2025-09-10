@@ -6,7 +6,7 @@ main:
   - title: "Research areas"
     url: "/#-research-areas"
 
-  - title: "News"
+  - title:"News"
     url: "/#-News"
 
   - title: "Publications"
