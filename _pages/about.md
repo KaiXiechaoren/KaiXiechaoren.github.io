@@ -1,4 +1,4 @@
----
+ ---
 permalink: /
 title: ""
 excerpt: ""
@@ -131,14 +131,14 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
   <!-- Matjaž Perc -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
   <img src="./images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Matjaž Perc </a></strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, University of Maribor in Slovenia. Member of the European Academy of Sciences, APS Fellow, National Highest Science and Technology Award</span><br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Statistical physics, complex systems, network science, data analysis and evolutionary game theory</span>
 </td>
     <!-- Yuemei Jiang -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
   <img src="./images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yuemei Jiang</a></strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, University of Electronic Science and Technology of China</span><br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: differential equation, complex systems, and evolutionary game theory</span>
 </td>
