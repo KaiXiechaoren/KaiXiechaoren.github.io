@@ -76,6 +76,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 - Scientific Reports  (JCR:Q2, CAS Tier 3)
 - Current Neuropharmacology (JCR:Q2, CAS Tier 3)
 - Franklin Open
+- Intelligent Systems with Applications (JCR:Q2)
 
 
 # 🎖 Honors and Awards
