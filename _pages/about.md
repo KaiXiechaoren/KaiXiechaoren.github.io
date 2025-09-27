@@ -129,19 +129,19 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 </td>
   </tr>
 <tr>
-  <!-- Tingjin Liu -->
+  <!-- Matjaž Perc-->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-  <img src="./images/perc.jpg" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">perc</a></strong><br/>
-  <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
-  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Switched systems，optimal control</span>
+  <img src="./images/perc.jpg" width="300" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Matjaž Perc</a></strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, University of Maribor; Member of the European Academy of Sciences; APS Fellow; National Top Science and Technology Award</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Statistical physics, complex systems, network science,  and evolutionary game theory</span>
 </td>
 <!-- Yuemei Jiang -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
   <img src="./images/Yaojun%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yaojun Liu</a></strong><br/>
-  <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
-  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Cooperation behavior within the evolutionary game framework on networks, the fault-tolerant online bin packing problem</span>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yuemei Jiang</a></strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, University of Electronic Science and Technology of China</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: AI</span>
 </table>
 
 
