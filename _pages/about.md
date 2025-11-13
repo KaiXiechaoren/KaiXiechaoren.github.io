@@ -115,12 +115,12 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 </td>
 </tr>
 <tr>
-<!-- Tingjin Liu -->
+  <!-- Matjaž Perc-->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-  <img src="./images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Tingjin Liu</a></strong><br/>
-  <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
-  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Switched systems，optimal control</span>
+  <img src="./images/perc.png" width="100" height="200" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Matjaž Perc</a></strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, University of Maribor; Member of the European Academy of Sciences; APS Fellow; National Top Science and Technology Award</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Statistical physics, complex systems, network science,  and evolutionary game theory</span>
 </td>
 <!-- Yaojun Liu -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
@@ -131,12 +131,12 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 </td>
   </tr>
 <tr>
-  <!-- Matjaž Perc-->
+<!-- Tingjin Liu -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-  <img src="./images/perc.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
-  <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Matjaž Perc</a></strong><br/>
-  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, University of Maribor; Member of the European Academy of Sciences; APS Fellow; National Top Science and Technology Award</span><br/>
-  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Statistical physics, complex systems, network science,  and evolutionary game theory</span>
+  <img src="./images/Tingjin%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <strong style="font-size: 16px; color: #1a1a1a;">Tingjin Liu</strong><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, Dalian University of Technology</span><br/>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Switched systems，optimal control</span>
 </td>
 <!-- Yuemei Jiang -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
