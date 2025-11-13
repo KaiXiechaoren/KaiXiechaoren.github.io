@@ -117,7 +117,7 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 <tr>
   <!-- Matjaž Perc-->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
-  <img src="./images/perc.png" width="100" height="200" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
+  <img src="./images/perc.png" width="120" height="200" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
   <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Matjaž Perc</a></strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, University of Maribor; Member of the European Academy of Sciences; APS Fellow; National Top Science and Technology Award</span><br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Statistical physics, complex systems, network science,  and evolutionary game theory</span>
@@ -144,7 +144,7 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
   <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Yuemei Jiang</a></strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, University of Electronic Science and Technology of China</span><br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Traffic anomaly detection, control system</span>
-</table>
+
 
 
 
