@@ -47,6 +47,8 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 <span class='anchor' id='News'></span>
 # 🔥 News
+- *2025.11*:  Our paper **"Ensemble Adaptive Libraries and Inner-Product Sparse Regression
+for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
 - *2025.08*:  Our paper **"Reinforcement learning in evolutionary game theory: a brief review of recent developments"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
 - *2025.07*:  Our paper **"The regulation of good and evi promotes cooperation in public goods game"** has been recognized as an ESI Highly Cited Paper worldwide (JCRQ1, CAS Tier 2).
 - *2025.07*:  Our paper **"Co-evolution mechanism in networked snowdrift game with large connection range"** has been accepted by Physica A: Statistical Mechanics and its Applications (JCRQ1, CAS Tier 2)
