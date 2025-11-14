@@ -103,15 +103,14 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
   <img src="./images/Attila.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
   <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Attila Szolnoki</a></strong><br/>
-  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science. Global Highly Cited Scientists<br/>
-  Centre for Energy Research</span><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science; Global Highly Cited Scientists<br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Evolutionary games, complex networks, nonlinear dynamics</span>
 </td>
 <!-- Xingwen Liu -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
   <img src="./images/Xingwen%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
   <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Xingwen Liu</a></strong><br/>
-  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University. Global Highly Cited Scientists.</span><br/>
+  <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University; Global Highly Cited Scientists.</span><br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
 </td>
 </tr>
