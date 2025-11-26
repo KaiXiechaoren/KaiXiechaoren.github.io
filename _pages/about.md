@@ -98,7 +98,6 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 # 🤝 Main research cooperators
 
 <table style="border-collapse: separate; border-spacing: 20px; margin: 0 auto;">
-  <tr>
    <!-- Attila Szolnoki -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
   <img src="./images/Attila.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
