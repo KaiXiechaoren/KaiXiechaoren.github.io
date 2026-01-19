@@ -80,6 +80,7 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 - Current Neuropharmacology (JCR:Q2, CAS Tier 3)
 - Franklin Open
 - Intelligent Systems with Applications (JCR:Q2)
+- Physics of Fluids (JCR:Q1, CAS Tier 2)
 
 
 # 🎖 Honors and Awards
@@ -112,7 +113,6 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Southwest Minzu University; Global Highly Cited Scientists.</span><br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Complex systems, multi-agent systems, intelligent control, robust control, and games</span>
 </td>
-</tr>
 <tr>
   <!-- Matjaž Perc-->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
