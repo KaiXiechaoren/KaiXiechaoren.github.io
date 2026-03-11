@@ -90,8 +90,8 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 - *2023.06:* 🎓Outstanding graduate student, Southwest Minzu University (100 annually).
 - *2023-2020:*  🎓First-class Academic Scholarship of the university, Southwest Minzu University (awarded annually).
 - *2022.11:*  🎓National Scholarship, The Ministry of Education of the People's Republic of China.
-- *2022.12:* 🥈Silver Award, The 8th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Guangxi Province Division).
-- *2021.12:* 🥉Bronze Award, The 7th China College Students''Internet Plus' Innovationand Entrepreneurship Competition (Sichuan Province Division)).
+- *2022.12:* 🥈Silver Award, The 8th China College Students ``Internet Plus" Innovationand Entrepreneurship Competition (Guangxi Province Division).
+- *2021.12:* 🥉Bronze Award, The 7th China College Students ``Internet Plus" Innovationand Entrepreneurship Competition (Sichuan Province Division)).
   
 # 📖 Educations
 - *2024.09 -  Present*, Ph.D. student in Electronic Information, University of Electronic Science and Technology of China (UESTC), Chengdu, China, Supervisor: [Prof. Yanru Zhang](https://scholar.google.com/citations?user=6I1ytegAAAAJ&hl=en)
