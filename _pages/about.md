@@ -71,6 +71,7 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 
 # 📄 Reviewer 
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (JCR:Q1, CAS Tier 1)
+- International Journal of Human-Computer Interaction (JCR:Q1, CAS Tier 2)
 - Chaos, Solitons and Fractals  (JCR:Q1, CAS Tier 1)
 - Chaos  (JCR:Q1, CAS Tier 2)
 - Applied Mathematics and Computation  (JCR:Q1, CAS Tier 2)
