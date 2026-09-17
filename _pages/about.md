@@ -111,7 +111,6 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
   <strong style="font-size: 16px; color: #1a1a1a;"><a href="#" style="text-decoration: none; color: #1a1a1a;">Attila Szolnoki</a></strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Professor, Institute of Technical Physics and Materials Science; Global Highly Cited Scientists<br/>
   <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Evolutionary games, complex networks, nonlinear dynamics</span>
-</td>
 <!-- Xingwen Liu -->
 <td align="center" style="width: 300px; vertical-align: top; padding: 15px;">
   <img src="./images/Xingwen%20Liu.png" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
