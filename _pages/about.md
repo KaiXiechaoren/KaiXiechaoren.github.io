@@ -47,10 +47,10 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
 
 <span class='anchor' id='News'></span>
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Our paper **"Evolutionary games in LLM-agent societies: Early milestones and perspectives"** has been accepted by Chaos, Solitons and Fractals (🏆 **Top Journal, CAS Tier 1**)
 - *2026.05*:  Our paper **"Reinforcement learning in evolutionary game theory: a brief review of recent developments"** has been recognized as an ESI Hot/Highly Cited Paper worldwide (JCRQ1, CAS Tier 2).
 - *2025.11*:  Our paper **"Reputation in public goods cooperation under double Q-learning protocol"** has been recognized as an ESI Highly Cited Paper worldwide (JCRQ1, CAS Tier 2).
-- *2025.11*:  Our paper **"Ensemble Adaptive Libraries and Inner-Product Sparse Regression
-for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
+- *2025.11*:  Our paper **"Ensemble Adaptive Libraries and Inner-Product Sparse Regression for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
 - *2025.08*:  Our paper **"Reinforcement learning in evolutionary game theory: a brief review of recent developments"** has been accepted by Applied Mathematics and Computation (JCRQ1, CAS Tier 2).
 - *2025.07*:  Our paper **"The regulation of good and evi promotes cooperation in public goods game"** has been recognized as an ESI Highly Cited Paper worldwide (JCRQ1, CAS Tier 2).
 - *2025.07*:  Our paper **"Co-evolution mechanism in networked snowdrift game with large connection range"** has been accepted by Physica A: Statistical Mechanics and its Applications (JCRQ1, CAS Tier 2)
@@ -60,7 +60,8 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 
 
 # 📝 Publications 
--  *20256.03: Yuemei Jiang,  Xinzheng Niu, Hao Chen,  Jiahui Zhu, **Kai Xie**, and Matjaž Perc, ["Ensemble adaptive libraries and inner-product sparse regression for robust nonlinear dynamics discovery"](https://www.sciencedirect.com/science/article/pii/S0096300325005648), in Applied Mathematics and Computation, March. 2026. (🏆Top Journal, CAS Tier 2)
+-  *2026.09: **Kai Xie**,  Yaojun Liu, Zhuo Lan,  Jiahui Zhu, and Attila Szolnoki, ["Evolutionary games in LLM-agent societies: Early milestones and perspectives"](https://www.sciencedirect.com/science/article/abs/pii/S0960077926012993?via%3Dihub), in Chaos, Solitons and Fractals, July. 2026 (🏆**Top Journal, CAS Tier 1**)
+-  *2026.03: Yuemei Jiang,  Xinzheng Niu, Hao Chen,  Jiahui Zhu, **Kai Xie**, and Matjaž Perc, ["Ensemble adaptive libraries and inner-product sparse regression for robust nonlinear dynamics discovery"](https://www.sciencedirect.com/science/article/pii/S0096300325005648), in Applied Mathematics and Computation, March. 2026. (🏆Top Journal, CAS Tier 2)
 -  *2025.08:*  **Kai Xie***, and Attila Szolnoki, ["Reinforcement learning in evolutionary game theory: a brief review of recent developments"](https://www.sciencedirect.com/science/article/abs/pii/S0096300325004114), in Applied Mathematics and Computation, April. 2025. (🏆**Top Journal, CAS Tier 1**)
 -  *2025.07:*  Yaojun Liu, Xingwen Liu, Xin Han, **Kai Xie**, ["Co-evolution mechanism in networked snowdrift game with large connection range"](https://www.sciencedirect.com/science/article/abs/pii/S0378437125004510), in Physica A: Statistical Mechanics and its Applications, July. 2025. (CAS Tier 2)
 -  *2025.04:*  **Kai Xie***, and Attila Szolnoki,  ["Reputation in public goods cooperation under double Q-learning protocol"](https://www.sciencedirect.com/science/article/pii/S0960077925004114), in Chaos, Solitons and Fractals, April. 2025. (🏆**Top Journal, CAS Tier 1**)
@@ -71,6 +72,7 @@ for Robust Nonlinear Dynamics Discovery"** has been accepted by Applied Mathemat
 
 # 📄 Reviewer 
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (JCR:Q1, CAS Tier 1)
+- Expert Systems With Applications (JCR:Q1, CAS Tier 1)
 - International Journal of Human-Computer Interaction (JCR:Q1, CAS Tier 2)
 - Chaos, Solitons and Fractals  (JCR:Q1, CAS Tier 1)
 - Chaos  (JCR:Q1, CAS Tier 2)
