@@ -156,7 +156,7 @@ A theory-oriented line of research aiming to design cooperation-promoting mechan
   <img src="./images/Zhuo%Lan.jpg" width="100" style="border-radius: 50%; margin-bottom: 10px;"/><br/>
   <strong style="font-size: 16px; color: #1a1a1a;">Zhuo Lan</strong><br/>
   <span style="font-size: 14px; line-height: 1.5; color: #333;">Ph.D. student, University of Electronic Science and Technology of China</span><br/>
-  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Reinforcement learning，large language model</span>
+  <span style="font-size: 13px; font-style: italic; color: #666;">Research directions: Reinforcement learning, large language model</span>
 </td>
 
 
